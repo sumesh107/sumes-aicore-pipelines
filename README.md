@@ -1,2 +1,2 @@
-# aicore-pipelines
+# sumesh-aicore-pipelines
 Storing AI pipelines SAP AI core
